@@ -23,12 +23,3 @@ This website showcases my projects, skills, and experiences in web development.
 
 ---
 
-## 📂 Project Structure
-
-📦 portfolio
-- ┣ 📂 assets # Images, icons, and sounds
-- ┣ 📂 css # Stylesheets
-- ┣ 📂 js # JavaScript scripts
-- ┣ 📜 index.html # Main page
-- ┗ 📜 README.md # Project documentation
-
