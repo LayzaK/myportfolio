@@ -17,7 +17,7 @@ This website showcases my projects, skills, and experiences in web development.
 ## 🛠️ Built With
 
 - **HTML5** — Structure
-- **CSS3 — Styling
+- **CSS3** — Styling
 - **JavaScript (ES6+)** — Interactivity
 - **[Optional Library]** Font Awesome / Google Fonts
 
