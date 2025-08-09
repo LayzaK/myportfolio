@@ -22,4 +22,4 @@ This website showcases my projects, skills, and experiences in web development.
 - **[Optional Library]** Font Awesome / Google Fonts
 
 ---
-
+**deploy**: https://layzak.github.io/myportfolio/
